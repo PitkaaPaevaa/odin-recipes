@@ -1,0 +1,37 @@
+* {font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+
+}
+h1 {font-size: 50px;
+    background-color: rgb(0, 0, 0);
+    font-style: oblique;
+    font-display: block;
+    color: chocolate;
+    text-align: center;
+    text-decoration: underline;
+}
+
+li {background-color: rgb(0, 0, 0);}
+
+p {
+    text-align: center;
+}
+
+ul, ol { 
+    background-color: black;
+    color: chocolate;
+    font-size: 25px;
+    font-style: initial;
+}
+
+a:hover {
+    color: chocolate;
+}
+a:link {
+    color: aqua;
+}
+a:visited {
+    color: aqua;
+}

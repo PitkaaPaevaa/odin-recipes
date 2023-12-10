@@ -1,0 +1,36 @@
+* {
+    color: darkred;
+    background-color: rgb(240, 203, 155);
+}
+
+h1 {
+    font-size: 56px;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.lista {
+    font-size: 35px;
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 25px;}
+a:link {
+    color: pink;
+}
+a:visited {color: rgb(116, 163, 126);}
+
+a:hover {
+    color: brown;
+}
+
+a:active {
+    color: green;
+}
